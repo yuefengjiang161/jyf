@@ -1,5 +1,5 @@
 ---
-title: 日志test
+title: test2
 author: jiangyuefeng
 date: '2022-07-05'
 slug: r
@@ -11,6 +11,6 @@ draft: yes
 description: ~
 featured_image: ~
 ---
-## 简介
-今天PPT没做
-尝试博客
+# test
+## test1
+今天
