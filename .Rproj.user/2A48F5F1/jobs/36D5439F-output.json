@@ -1,0 +1,4 @@
+[1,"Installing 'rstudioapi' for Shiny Add-Ins...\r\n"]
+[1,"\r\n"]
+[2,"Warning: unable to access index for repository https://cran.rstudio.com/src/contrib:\r\n  download from 'https://cran.rstudio.com/src/contrib/PACKAGES' failed\r\n"]
+[2,"\r\n\r\n✔ Package 'rstudioapi' successfully installed.\r\nWarning message:\r\npackage 'rstudioapi' is not available for this version of R\r\n\r\nA version of this package for your version of R might be available elsewhere,\r\nsee the ideas at\r\nhttps://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages \r\n"]
